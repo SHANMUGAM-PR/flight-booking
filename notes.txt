@@ -1,0 +1,5 @@
+winston -- for logging
+sequlize -- orm connection
+my sql driver do
+
+sequlize cli -- migratiomn and modelsc reated 
