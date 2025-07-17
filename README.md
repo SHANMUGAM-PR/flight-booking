@@ -194,6 +194,6 @@ Visit: [http://localhost:3000/api/v1/flight](http://localhost:3000/api/v1/flight
  B.Tech Information Technology  
  Backend Developer | Placement-Ready  
 
-[LinkedIn](https://www.linkedin.com) • [GitHub](https://github.com)
+[LinkedIn](https://www.linkedin.com/in/shanmugam-p-r-53331525a/) • [GitHub](https://github.com/SHANMUGAM-PR?tab=repositories)
 
 
